@@ -1,4 +1,4 @@
-## Hi there 
+
 ## Im currently learning C# 
 
 
